@@ -8,11 +8,10 @@ Things to fix:
 - !hide (user)
 - !copy
 
-# Xensis
+#PhiPei7
 
 An expansive Fortnite lobby bot with a handful of features.
 
-> Discord server: <a href="https://dsc.phi.pei" target="_blank">Xensis Bots</a>
 
 ## Getting Started
 
